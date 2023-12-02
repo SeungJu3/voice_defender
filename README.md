@@ -4,12 +4,10 @@
 ## 개발 기간
 - 2023.10.06 - 2023.11.17
 ## 개발 인원
-<html>
-<li> FE. <a href="https://github.com/dongmin1011/voice_defender" target="_blank">@dongmin1011</a> </li>
-<li> BE. <a href="https://github.com/yj2dev/voice_defender" target="_blank">@yj2dev</a> </li>
-<li> AI. <a href="https://github.com/SuYoungSong/voice_defender" target="_blank">@SuYoungSong</a> <a href="https://github.com/DAAIN" target="_blank">@DAAIN</a> [@hanaeju](https://github.com/hanaeju/voice_defender) </li>
-<li> PA. 이승주 </li> 
-</html>
+- FE. [@dongmin1011](https://github.com/dongmin1011/voice_defender)
+- BE. [@yj2dev](https://github.com/yj2dev/voice_defender)
+- AI. [@SuYoungSong](https://github.com/SuYoungSong/voice_defender)&nbsp;&nbsp;[@DAAIN](https://github.com/DAAIN)&nbsp;&nbsp;[@hanaeju](https://github.com/hanaeju/voice_defender)
+- PA. 이승주
 
 ## 개발 내용
 - 딥보이스 분류 모델 개발
