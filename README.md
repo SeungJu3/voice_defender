@@ -13,6 +13,6 @@
 <a href="https://www.youtube.com/watch?v=76D2DsDsIkc">보이스 디펜더 시연 영상</a>
 <br/><br/>
 
-![image](https://github.com/yj2dev/voice_defender/assets/72322679/8cd73c63-579e-44e2-a06f-07a72f418caa target='_blank')
+![image](a href="https://github.com/yj2dev/voice_defender/assets/72322679/8cd73c63-579e-44e2-a06f-07a72f418caa" target='_blank')
 ![image](https://github.com/yj2dev/voice_defender/assets/72322679/66dded65-5acd-46e2-942d-2ac12a21b595)
 ![image](https://github.com/yj2dev/voice_defender/assets/72322679/a14410f5-a1b7-4e03-8b37-1e4856be9056)
