@@ -3,7 +3,11 @@
 ## 개발 기간
 - 2023.10.06 - 2023.11.17
 ## 개발 인원
-- FE, BE, AI, PA 총 6명
+- FE. @dongmin1011
+- BE. @yj2dev
+- AI. @SuYoungSong @DAAIN @hanaeju
+- PA. 이승주
+Total. 6人
 ## 개발 내용
 - 딥보이스 분류 모델 개발
 ## 시연 영상
