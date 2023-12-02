@@ -7,7 +7,6 @@
 - BE. [@yj2dev](https://github.com/yj2dev/voice_defender)
 - AI. [@SuYoungSong](https://github.com/SuYoungSong/voice_defender) [@DAAIN](https://github.com/DAAIN) [@hanaeju](https://github.com/hanaeju/voice_defender)
 - PA. 이승주  
-Total. 6人
 ## 개발 내용
 - 딥보이스 분류 모델 개발
 ## 시연 영상
