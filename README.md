@@ -6,7 +6,7 @@
 ## 개발 인원
 - FE.&nbsp; [@dongmin1011](https://github.com/dongmin1011/voice_defender)
 - BE.&nbsp; [@yj2dev](https://github.com/yj2dev/voice_defender)
-- AI.&nbsp; [@SuYoungSong](https://github.com/SuYoungSong/voice_defender)&nbsp;&nbsp;[@DAAIN](https://github.com/DAAIN)&nbsp;&nbsp;[@hanaeju](https://github.com/hanaeju/voice_defender)
+- AI.&nbsp; [@SuYoungSong](https://github.com/SuYoungSong/voice_defender)&nbsp;&nbsp;[@DAAIN](https://github.com/DAAIN)&nbsp;&nbsp;[@hy2jv](https://github.com/hy2jv/voice_defender)
 - PA.&nbsp;이승주
 
 ## 개발 내용
